@@ -1,0 +1,11 @@
+{
+  "mapID":"1",
+  "mapName":"test",
+  "unstableStar":"true",
+  "ringOne":{
+    "distance":"20",
+    "planets":"4",
+    "planetID":"1"{
+      "planetType":"3",
+      "moonCount":"2",
+      
