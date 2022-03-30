@@ -2,10 +2,30 @@
   "mapID":"1",
   "mapName":"test",
   "unstableStar":"true",
-  "ringOne":{
+  "teamCount":"2
+  "ringID":"1"{
     "distance":"20",
-    "planets":"4",
+    "planets":"2",
     "planetID":"1"{
       "planetType":"3",
       "moonCount":"2",
-      
+      "colorType":"3",
+  },
+   "planetID":"2"{
+      "planetType":"3",
+      "moonCount":"2",
+      "colorType":"5",
+  },
+   "ringID":"2"{
+    "distance":"50",
+    "planets":"4",
+    "planetID":"1"{
+      "planetType":"1",
+      "moonCount":"2",
+      "colorType":"3",
+  },
+   "planetID":"2"{
+      "planetType":"1",
+      "moonCount":"2",
+      "colorType":"5",
+  }
